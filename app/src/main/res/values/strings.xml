@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Buying</string>
+    <string name="app_name">Purchase</string>
+    <string name="daily_pertuace">Daily purchase</string>
 </resources>
